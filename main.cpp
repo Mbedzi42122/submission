@@ -14,7 +14,7 @@ int main()
  cout<< "Do you see yourself getting married someday?(1. Yes/2. No)"<<endl;
  cin>>answer3;
 
- cout<< "Do you have  big nyash?(1. yes/ 2. No)" <<endl;
+ cout<< "Do you enjoy reading books?(1. yes/ 2. No)" <<endl;
  cin>> answer4;
 
  if(answer1==1 && answer2 == 1 && answer3 == 1 || answer4 == 1){
